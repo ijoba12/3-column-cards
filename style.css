@@ -87,8 +87,8 @@ button{
 }
 #cards-1{
     background-color: var(--bright-orange);
-    border-top-left-radius: 40px;
-    border-bottom-left-radius: 40px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 
 #cards-1 button{
